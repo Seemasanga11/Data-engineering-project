@@ -1,4 +1,4 @@
-# Data-engineering-Azure-Based Data Analytics Project
+# Azure-Based Data Analytics Project
 
 ## Project Overview
 This project leverages Microsoft Azure to process and analyze sales data, integrating various Azure services to create a streamlined data pipeline. The goal is to transform raw sales data into actionable insights using Azure Data Factory, Azure Synapse Analytics, and Power BI.
